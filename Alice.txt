@@ -1,3 +1,4 @@
 Hi! I'm Alice. I'm a file someone added to this repository a while ago. :)
 I don't like Bob. At all.
-I like Patrick. :(
+<<<<<<< HEAD
+I like Patrick. :O
